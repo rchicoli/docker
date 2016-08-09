@@ -166,4 +166,7 @@ clone git github.com/spf13/pflag cb88ea77998c3f024757528e3305022ab50b43be
 clone git github.com/inconshreveable/mousetrap 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
 clone git github.com/flynn-archive/go-shlex 3f9db97f856818214da2e1057f8ad84803971cff
 
+# elasticsearch logging driver deps
+clone git gopkg.in/olivere/elastic.v3 f7bb5bcd6959cf311befa90db8232080a4f29859
+
 clean
